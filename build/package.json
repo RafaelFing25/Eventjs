@@ -1,0 +1,29 @@
+{
+  "name": "event-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RafaelFing25/Eventjs.git"
+  },
+  "keywords": [
+    "Eventjs",
+    "Event",
+    "Emmiter",
+    "Eventlistner",
+    "Eventemmiter"
+  ],
+  "author": "RafaelFL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RafaelFing25/Eventjs/issues"
+  },
+  "homepage": "https://github.com/RafaelFing25/Eventjs#readme"
+}
